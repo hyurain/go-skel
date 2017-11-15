@@ -1,6 +1,7 @@
 //usr/local/go/bin/go run $0 $@ $(dirname `realpath $0`); exit
 package main
 
+// test
 import (
 	"bufio"
 	"fmt"
